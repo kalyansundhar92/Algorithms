@@ -23,4 +23,14 @@ public class runningSumOf1dArray {
         }
         return result;
     }
+
+    //best solution
+    public int[] runningSumSolution3(int[] nums) {
+        int i = 1;
+        while (i<nums.length){
+            nums[i]+=nums[i-1];
+            i++;
+        }
+        return nums;
+    }
 }
