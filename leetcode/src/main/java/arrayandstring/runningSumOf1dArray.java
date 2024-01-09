@@ -1,6 +1,4 @@
-package main.java.easy;
-
-import java.util.Arrays;
+package main.java.arrayandstring;
 
 public class runningSumOf1dArray {
     //my solution

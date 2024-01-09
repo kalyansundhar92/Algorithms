@@ -1,7 +1,5 @@
-package main.java.easy;
+package main.java.arrayandstring;
 
-import java.util.HashMap;
-import java.util.Map;
 import java.util.Stack;
 
 public class ValidParanthesis {
